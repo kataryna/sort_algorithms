@@ -1,0 +1,13 @@
+SortTimeComplexity
+========================================
+|
+
+.. automodule:: sort_time_complexity
+    :members:
+    :undoc-members:
+    :private-members:
+    :show-inheritance:
+
+|
+
+:ref:`Return Home <mastertoc>`

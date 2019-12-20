@@ -1,0 +1,13 @@
+BubbleSort
+========================================
+|
+
+.. automodule:: bubble_sort
+    :members:
+    :undoc-members:
+    :private-members:
+    :show-inheritance:
+
+|
+
+:ref:`Return Home <mastertoc>`
